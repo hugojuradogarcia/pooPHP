@@ -30,3 +30,23 @@ Clase 2 Herencia
 		Propiedades o metodos
 		:: 
 		Se pueden para visualizar o asignar desde cualquier parate pero sin la necesidad de instanciar el objeto
+
+Clase 3:
+	Clase abstracta: declarar metos y propiedades pero los metodos de esta clase solo se declaran y no se le incluye instrucciones 
+
+	abstract class
+
+
+	Metodos Magicos:
+		__construct
+		
+		__destruct: cerrar conexiones, asegurar que el usuario cerro sesion, limpiar variables, etc.
+
+		__call: solo se ejecuta cunado de recontruye, $name, $arguments. Controles dentro de los metodos que se estan tratando de ejecutar
+
+		__set: reacciona cuando mandamos asignar un valor
+
+		__get: 
+
+
+
