@@ -1,0 +1,32 @@
+POO PHP
+
+Clase :
+	Ejemplo, plano de una casa o un avion 
+	Tienen dos elementos principales Propiedad y Metodos
+	_________________________________________________________________________
+	Propiedades: que caracteristicas tiene nuestro plano: color, tamaño, etc.
+	Metodo: Declarar acciones
+	-> : ejecute una accion (interactuar con los elementos de mi objeto)
+	Declarar: class MiClaseDePHP
+
+	Palabras reservadas (protected, private y public);
+	Public: alcance de las propiedades // cualquiera puede manipular o acceder la informacion
+	Protected: solo se puede acceder desde mi propia clase o las clases hijas de esta clase
+	Private: solo la puede utilizar mi clase 
+
+	$this = mis elementos
+
+	Metodos magico se ejecutan a partir de una accion
+		__construct
+
+
+Objeto :
+	Casa en donde nosotros vivimos (en la casa)
+	
+
+Clase 2 Herencia
+	Herencia: extends
+	Propiedades o el tipo de dato static
+		Propiedades o metodos
+		:: 
+		Se pueden para visualizar o asignar desde cualquier parate pero sin la necesidad de instanciar el objeto
